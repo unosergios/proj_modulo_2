@@ -1,0 +1,7 @@
+br\com\alura\carteira\teste\TestaLombok.class
+br\com\alura\carteira\CarteiraApiApplication.class
+br\com\alura\carteira\dto\TransacaoDto.class
+br\com\alura\carteira\controller\TransacaoController.class
+br\com\alura\carteira\modelo\Transacao.class
+br\com\alura\carteira\dto\TransacaoFormDto.class
+br\com\alura\carteira\modelo\TipoTransacao.class
